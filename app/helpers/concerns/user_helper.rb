@@ -1,0 +1,2 @@
+module Concerns::UserHelper
+end
